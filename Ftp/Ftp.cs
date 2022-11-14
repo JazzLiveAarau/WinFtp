@@ -339,7 +339,7 @@ namespace Ftp
         #endregion // Delete
 
     } // Upload
-
+     
     /// <summary>Download of files</summary>
     public class DownLoad
     {
