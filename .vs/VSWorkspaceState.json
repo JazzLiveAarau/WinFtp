@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Ftp"
   ],
-  "SelectedNode": "\\Ftp.sln",
+  "SelectedNode": "\\Ftp\\Ftp.cs",
   "PreviewInSolutionExplorer": false
 }
